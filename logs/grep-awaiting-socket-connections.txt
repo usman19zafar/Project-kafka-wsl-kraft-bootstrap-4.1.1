@@ -1,0 +1,5 @@
+grep-awaiting-socket-connections.txt
+------------------------------------
+
+47:[2026-02-11 12:41:38,097] INFO Awaiting socket connections on 127.0.0.1:9093. (kafka.network.DataPlaneAcceptor)
+1155:[2026-02-11 12:41:38,932] INFO Awaiting socket connections on 127.0.0.1:9092. (kafka.network.DataPlaneAcceptor)
