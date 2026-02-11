@@ -1,0 +1,4 @@
+INFO Awaiting socket connections on 127.0.0.1:9093. (kafka.network.DataPlaneAcceptor)
+INFO Awaiting socket connections on 127.0.0.1:9092. (kafka.network.DataPlaneAcceptor)
+INFO [BrokerServer id=1] Transition from SHUTDOWN to STARTING
+INFO [BrokerServer id=1] Starting broker
