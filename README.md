@@ -1,4 +1,5 @@
-Kafka WSL KRaft Bootstrap (4.1.1)
+# Kafka WSL KRaft Bootstrap (4.1.1)
+
 Bringing Apache Kafka 4.1.1 (KRaft combined‑mode) online inside WSL2 — a complete engineering record.
 
 This repository documents the full lifecycle of diagnosing, fixing, and successfully launching a Kafka 4.1.1 KRaft cluster inside WSL2.
