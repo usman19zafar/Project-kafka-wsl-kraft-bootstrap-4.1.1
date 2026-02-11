@@ -11,3 +11,17 @@ Fix (run in Windows PowerShell, not Ubuntu):
 
 ```powershell
 wsl --shutdown
+
+Then reopen Ubuntu, cd ~/kafka_2.13-4.1.1, re‑format storage, and start Kafka again
+
+
+---
+
+### `logs/kafka-startup-fail-port-9093.log`
+
+Contains the first failure:
+
+```text
+ERROR Unable to start acceptor for CONTROLLER
+org.apache.kafka.common.KafkaException: Socket server failed to bind to 0.0.0.0:9093: Address already in use.
+Caused by: java.net.BindException: Address already in use
