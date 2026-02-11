@@ -1,0 +1,2 @@
+ERROR Exiting Kafka due to fatal exception
+java.lang.RuntimeException: No readable meta.properties files found.
